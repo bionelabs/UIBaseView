@@ -28,10 +28,10 @@ view.visual.stack(...)
 ```
 ### Button
 ```swift
-        let button = UIButton()
-        button.touch(.touchUpInside) {
-            // todo
-        }
+let button = UIButton()
+button.touch(.touchUpInside) {
+    // todo
+}
 ```
 
 ### BaseView
